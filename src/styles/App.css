@@ -1,0 +1,37 @@
+:root{
+  --white: #f54e4e
+}
+
+
+
+
+body{
+  background-color: gray;
+  color:#eee;
+}
+
+
+main{
+  padding:50px;
+  margin:0 auto;
+  max-width: 340px;
+  text-align: center;
+  font-size: 40px;
+}
+
+button{
+  background-color: transparent;
+  color:white;
+  border:0;
+  width: 100px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+label{
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+
